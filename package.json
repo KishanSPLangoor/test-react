@@ -1,0 +1,36 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is react practice space",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KishanSPLangoor/test-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Kishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KishanSPLangoor/test-react/issues"
+  },
+  "homepage": "https://github.com/KishanSPLangoor/test-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "browserslist": [
+    "last 5 Chrome version",
+    "last 5 Safari version",
+    "last 5 Firefox version",
+    "last 5 Edge version"
+  ]
+}
